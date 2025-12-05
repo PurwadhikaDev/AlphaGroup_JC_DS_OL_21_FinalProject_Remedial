@@ -38,3 +38,8 @@ Dalam melakukan permasalahan utama di projek ini, digunakan 3 asumsi:
   - Demand market mobil bekas
   - Trend market mobil bekas
 - Model dapat memprediksi harga berdasarkan korelasi dari fitur - fitur, bukan kausalitas.
+
+## Tableau
+https://public.tableau.com/views/FinalProject-Remedial-ArmandMarcell/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<img width="1079" height="800" alt="image" src="https://github.com/user-attachments/assets/0c2a2fa9-1268-400e-8049-f27616906041" />
+
